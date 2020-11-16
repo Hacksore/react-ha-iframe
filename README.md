@@ -8,7 +8,7 @@ Example card
 
 ![example](https://i.imgur.com/gMm7f5S.png)
 
-Start the docker container to expose port 8080 then configure the webpage card.
+Start the docker container to expose port 3000 then configure the webpage card.
 
 ```
 docker run -p 3000:80 hacksore/react-ha-iframe
